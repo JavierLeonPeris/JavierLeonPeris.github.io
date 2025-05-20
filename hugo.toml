@@ -1,0 +1,4 @@
+baseURL = 'https://JavierLeonPeris.github.io/'
+languageCode = 'en-us'
+title = 'My Awesome new page'
+theme = 'ananke'
